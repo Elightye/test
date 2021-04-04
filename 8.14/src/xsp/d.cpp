@@ -2,7 +2,7 @@
 using namespace std;
 
 bool flag;
-
+int fadsgs;
 void print(int i, int j) {
     if (flag) swap(i, j);
     printf("%d %d\n", i + 1, j + 1);
